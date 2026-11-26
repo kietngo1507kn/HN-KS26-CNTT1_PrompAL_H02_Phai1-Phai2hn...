@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:**
 - **Lớp:**
-- **Link repository Pha2:**
+- **Link repository Pha2:https://github.com/kietngo1507kn/HN-KS26-CNTT1_PrompAL_H02_Phai1-Phai2hn....git**
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
