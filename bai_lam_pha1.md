@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:** Ngô Nguyên Anh Kiệt 
 - **Lớp:** CNTT1 
-- **Link repository Pha1:**
+- **Link repository Pha1:https://github.com/kietngo1507kn/HN-KS26-CNTT1_PrompAL_H02_Phai1-Phai2hn....git**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
